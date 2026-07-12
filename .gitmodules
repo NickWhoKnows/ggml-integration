@@ -1,0 +1,3 @@
+[submodule "include/ggml"]
+	path = include/ggml
+	url = https://github.com/ggml-org/ggml.git
